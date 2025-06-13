@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-[Desktop view](screenshots/scr1.png)
+![Desktop view](screenshots/scr1.png)
 [mobile view](screenshots/scr2.png)
 [hover](screenshots/scr3.png)
 
